@@ -1,0 +1,16 @@
+Tooltip_FR = {
+--
+	Tooltip_OilPan = "Il a besoin de chaleur pour être utilisable.",
+	Tooltip_WaterPan = "Doit être cuit.",
+	Tooltip_AsiaFoodMagazine = "Enseigne des recettes asiatiques.",
+	Tooltip_EuropeFoodMagazine = "Enseigne des recettes européennes.",
+	Tooltip_PastaDoughMagazine = "Enseigne des recettes de pâtes.",
+	Tooltip_HotWater = "Combiner avec de l'eau chaude.",
+	Tooltip_EmptyThermos = "Peut être utilisé pour stocker de l'eau, des boissons ou des soupes.",
+	Tooltip_CookedBowls = "Peut être placé dans des bols après cuisson.",
+	Tooltip_CookedSlices = "Peut être tranché après cuisson.",
+	Tooltip_CornPopcorn = "Peut être transformé en Popcorn.",
+	Tooltip_Stock = "Peut être utilisé pour le stockage, les soupes ou les ragoûts.",
+	Tooltip_IceCubes = "Quand remplit avec de l'eau, peut faire des glaçons si placé près d'un réfrigérateur électrifié.",
+	Tooltip_SausagesMagazine = "Enseigne l'art de la boucherie et comment faire des saucisses."	
+} 	

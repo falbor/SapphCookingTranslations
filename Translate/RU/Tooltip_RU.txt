@@ -1,0 +1,12 @@
+Tooltip_RU = {
+
+
+    Tooltip_AsiaFoodMagazine = "Обучает поварским рецептом из Азии"
+    Tooltip_EuropeFoodMagazine = "Обучает поварским рецептом из Европы"
+    Tooltip_HotWater = "Для приготовления необходимо налить горячей воды"
+    Tooltip_OilPan = "Перед употреблением необходимо нагреть."
+    Tooltip_PastaDoughMagazine = "Обучает рецептам пасты."
+    Tooltip_WaterPan = "Необходимо приготовить."
+
+
+}
