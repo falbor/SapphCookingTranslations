@@ -1,0 +1,31 @@
+Tooltip_IT = {
+    Tooltip_OilPan = "Ha bisogno di calore per essere utilizzata.",
+    Tooltip_WaterPan = "Deve essere cotta.",
+    Tooltip_AsiaFoodMagazine = "Insegna ricette di cucina della regione asiatica.",
+    Tooltip_EuropeFoodMagazine = "Insegna ricette di cucina della regione europea.",
+    Tooltip_PastaDoughMagazine = "Insegna ricette di pasta.",
+    Tooltip_HotWater = "Le istruzioni dicono: 'usalo con acqua calda'.",
+    Tooltip_EmptyThermos = "Può essere usato per conservare acqua, bevande o zuppe cotte.",
+    Tooltip_CookedBowls = "Può essere messo nelle ciotole dopo la cottura.",
+    Tooltip_CookedSlices = "Può essere affettato dopo la cottura.",
+    Tooltip_CornPopcorn = "Può essere cotto per ottenere popcorn.",
+    Tooltip_Stock = "Può essere usato in brodi, zuppe o stufati.",
+    Tooltip_IceCubes = "Quando riempito d'acqua, può trasformarsi in cubetti di ghiaccio se vicino a un frigorifero funzionante.",
+    Tooltip_SausagesMagazine = "Insegna come macellare e preparare salsicce.",
+
+    Tooltip_Fortune1 = "'L'esperienza è il miglior maestro della vita.'",
+    Tooltip_Fortune2 = "'Vivi questo giorno come se fosse l'ultimo.'",
+    Tooltip_Fortune3 = "'Nella vita non ci sono rimpianti. Solo lezioni.'",
+    Tooltip_Fortune4 = "'Lascia che i tuoi sogni tornino a vivere.'",
+    Tooltip_Fortune5 = "'Trasforma le tue ferite in saggezza.'",
+    Tooltip_Fortune6 = "'Guarda quanto sei andato lontano.'",
+    Tooltip_Fortune7 = "'Attento al Cane Goblin.'",
+    Tooltip_Fortune8 = "'Che senso ha esistere, se non sei te stesso?'",
+    Tooltip_Fortune9 = "'A cosa servono le ali, senza il coraggio di volare?'",
+    Tooltip_Fortune10 = "'Passo dopo passo, si va lontano.'",
+
+    Tooltip_LunarNewYear = "Di solito si mangia durante il Capodanno Lunare, se è il caso, Buon Anno!",
+
+    Tooltip_CheeseCurds = "Può essere stagionato in una forma di parmigiano in pentole, stampi per formaggi o secchi; oppure filtrato per ottenere mozzarella.",
+    Tooltip_BlueCheese = "Può essere stagionato in formaggio blu in pentole, stampi per formaggi o secchi.",
+}

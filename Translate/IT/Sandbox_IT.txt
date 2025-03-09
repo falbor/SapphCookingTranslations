@@ -1,0 +1,61 @@
+Sandbox_IT = {
+	
+	Sandbox_SapphCooking = "Sapph Cooking",
+	
+	Sandbox_SapphCooking_NonPerishableChance = "Probabilità di generazione cibo non deperibile",
+    Sandbox_SapphCooking_NPerishableChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_NPerishableChance_option2 = "Raro",
+    Sandbox_SapphCooking_NPerishableChance_option3 = "Normale",
+    Sandbox_SapphCooking_NPerishableChance_option4 = "Comune",
+    Sandbox_SapphCooking_NPerishableChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_NPerishableChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_PerishableChance = "Probabilità di generazione cibo deperibile",
+    Sandbox_SapphCooking_PerishableChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_PerishableChance_option2 = "Raro",
+    Sandbox_SapphCooking_PerishableChance_option3 = "Normale",
+    Sandbox_SapphCooking_PerishableChance_option4 = "Comune",
+    Sandbox_SapphCooking_PerishableChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_PerishableChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_MagazineChance = "Probabilità di generazione riviste",
+    Sandbox_SapphCooking_MagazineChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_MagazineChance_option2 = "Raro",
+    Sandbox_SapphCooking_MagazineChance_option3 = "Normale",
+    Sandbox_SapphCooking_MagazineChance_option4 = "Comune",
+    Sandbox_SapphCooking_MagazineChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_MagazineChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_MREChance = "Probabilità di generazione MRE",
+    Sandbox_SapphCooking_MREChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_MREChance_option2 = "Raro",
+    Sandbox_SapphCooking_MREChance_option3 = "Normale",
+    Sandbox_SapphCooking_MREChance_option4 = "Comune",
+    Sandbox_SapphCooking_MREChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_MREChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_KitchenUtensilsChance = "Probabilità di generazione utensili da cucina",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option2 = "Raro",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option3 = "Normale",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option4 = "Comune",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_KitchenUtensilsChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_AlcoholChance = "Probabilità di generazione alcolici",
+    Sandbox_SapphCooking_AlcoholChance_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_AlcoholChance_option2 = "Raro",
+    Sandbox_SapphCooking_AlcoholChance_option3 = "Normale",
+    Sandbox_SapphCooking_AlcoholChance_option4 = "Comune",
+    Sandbox_SapphCooking_AlcoholChance_option5 = "Abbondante",
+    Sandbox_SapphCooking_AlcoholChance_option6 = "Nessuno (sconsigliato)",
+
+    Sandbox_SapphCooking_ZombieLootSpawn = "Probabilità di generazione loot dagli infetti",
+    Sandbox_SapphCooking_ZLootSpawn_option1 = "Estremamente raro",
+    Sandbox_SapphCooking_ZLootSpawn_option2 = "Raro",
+    Sandbox_SapphCooking_ZLootSpawn_option3 = "Normale",
+    Sandbox_SapphCooking_ZLootSpawn_option4 = "Comune",
+    Sandbox_SapphCooking_ZLootSpawn_option5 = "Abbondante",
+    Sandbox_SapphCooking_ZLootSpawn_option6 = "Nessuno",
+
+}
